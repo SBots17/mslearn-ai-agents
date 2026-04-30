@@ -9,3 +9,8 @@ az login
 ---
 
 python agent_with_functions.py
+
+---
+
+to exit from  chat
+Type exit
