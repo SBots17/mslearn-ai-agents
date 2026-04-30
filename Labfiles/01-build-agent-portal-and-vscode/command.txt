@@ -1,0 +1,11 @@
+python -m venv labenv
+.\labenv\Scripts\Activate.ps1
+  pip install -r requirements.txt  (check to be in correct folder) 
+
+---
+
+az login
+
+---
+
+python agent_with_functions.py
